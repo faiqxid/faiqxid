@@ -15,3 +15,7 @@
 </p>
 
 ---
+
+## NODE
+
+- ### [INITIA NODE](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1t0th6f5k4pqmvwctyxezpxlm99hxhd33de9fyd)
