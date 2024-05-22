@@ -8,14 +8,6 @@
   <b>WELCOME!</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yourusername/noderunner/stargazers"><img src="https://img.shields.io/github/stars/yourusername/noderunner.svg" alt="Stars"></a>
-  <a href="https://github.com/yourusername/noderunner/issues"><img src="https://img.shields.io/github/issues/yourusername/noderunner.svg" alt="Issues"></a>
-  <a href="https://github.com/yourusername/noderunner/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/noderunner.svg" alt="License"></a>
-</p>
-
----
-
 ## NODE
 
 - ### [VALIDATOR INITIA NODE: FAIQI_ID](https://scan.testnet.initia.xyz/initiation-1/validators/initvaloper1t0th6f5k4pqmvwctyxezpxlm99hxhd33de9fyd)
